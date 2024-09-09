@@ -1,0 +1,14 @@
+body {
+    background-image: url('bongo_cat.png');
+    background-size: cover;
+    background-position: center;
+}
+h1 {
+    font-size: 48px;
+    color: darkseagreen;
+    text-align: center;
+}
+p {
+    font-size: 22px;
+    color: darkslategray;
+}
